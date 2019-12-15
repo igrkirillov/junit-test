@@ -1,0 +1,9 @@
+*.iml
+target
+*.classpath
+*.project
+*.log
+*.log.[0-9]*
+journal.txt
+
+.idea
